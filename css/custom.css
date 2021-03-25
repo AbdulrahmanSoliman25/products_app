@@ -1,0 +1,50 @@
+.navbar
+{
+  height: 100px;
+}
+
+.form-container
+{
+  min-height: 400px;
+}
+
+.form-col
+{
+  padding: 30px;
+  border: 1px solid darkgrey;
+}
+
+footer
+{
+  background-color: #f8f9fa;
+  height: 100px;
+}
+
+.price
+{
+  color: darkred;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.pieces-no
+{
+  color: darkblue;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.not-found 
+{
+  height: 300px;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.errors-list 
+{
+  list-style-type: none;
+  color: azure;
+  text-align: center;
+  padding: 20px;
+}
